@@ -1,6 +1,6 @@
 # GAOTEK UTILS
 
-# NOTE: C++ 17 required
+## NOTE: To run this program you need to install c++17
 
 ## Run the following code on the command line for easier use
 
